@@ -1,6 +1,7 @@
 # React To-Do Application
 
-![Demo](link_to_demo_gif_or_screenshot.png)
+[Demo](![Screenshot 2023-10-06 122133](https://github.com/yashyp07/To-Do-Website/assets/101519769/cf0cdbd2-9c89-4f2f-93b5-2e102b29b446)
+)
 
 ## Table of Contents
 
